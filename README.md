@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 como vai?</h1>
 
 ###
 
-<p align="left">Hi! My name is Arthur and I'm a Web Developer, from Paraná - BR</p>
+<p align="left">Oi! Meu nome é Arthur e sou um Web Developer, do Paraná - BR</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning more of APIs and Backend<br>🎯 Goals: Be a complete Backend Developer<br>🎲 Fun fact: I add some funny names on my Databases too</p>
+<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estudando sobre APIs e Backend<br>🎯 Objetivos: Se tornar um Backend Developer completo<br>🎲 Curiosidade: Eu adiciono nomes engraçados nos meus bancos de dados também, geralmente sobre o que ocorre na atualidade.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu codo com</h2>
 
 ###
 
@@ -44,4 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+## Projetos em que ajudei ou fiz
+- [Projeto ProjetoIntegradorWEB ou Equilibrium](https://github.com/BrianoFelps/ProjetoIntegradorWEB): Prototipo de um site pique Notion ou Agenda da Google(ideia do Brian) para organização pessoal com login e cadastro prontos por meio de API e banco de dados.
+  Foram utilizadas as tecnologias do Framework React vite com Typescript, uso de bootstrap pros componentes e pra API o JavaScript com NodeJS, fazendo a ligação com o Banco de Dados MySql.
+  [API do ProjetoIntegradorWEB](https://github.com/BrianoFelps/API-ProjetoIntegrador)
+
+- [Projeto Backend da imersão Alura](https://github.com/arthurpelitoo/imersaoBackEndALURA-INSTALIKE): Desenvolvi uma API utilizando JavaScript, MongoDB e Express. Implementei as operações CRUD (Create, Read, Update, Delete) e integrei a API da Google Gemini para gerar descrições detalhadas de imagens. Além disso, fiz a deploy dela no        Google Cloud, aprendendo a configurar um ambiente de produção. Essa experiência me permitiu aprimorar minhas habilidades em design de APIs, manipulação de dados e integração de serviços externos.
+  
 ###
+
