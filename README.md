@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! My name is Arthur and I'm a Web Programer, from Paraná - BR</p>
+<p align="left">Hi! My name is Arthur and I'm a Web Developer, from Paraná - BR</p>
 
 ###
 
