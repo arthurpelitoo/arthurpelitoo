@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estudando sobre APIs e Backend<br>🎯 Objetivos: Se tornar um Backend Developer completo<br>🎲 Curiosidade: Eu adiciono nomes engraçados nos meus bancos de dados também, geralmente sobre o que ocorre na atualidade.</p>
+<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente fazendo faculdade de TADS<br>🎯 Objetivos: Se tornar um Backend Developer completo<br>🎲 Curiosidade: Eu adiciono nomes engraçados nos meus bancos de dados também, geralmente sobre o que ocorre na atualidade.</p>
 
 ###
 
