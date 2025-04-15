@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Eu codei com</h2>
+<h2 align="left">Já usei em projetos:</h2>
 
 ###
 
