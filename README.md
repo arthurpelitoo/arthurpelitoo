@@ -45,11 +45,14 @@
 </div>
 
 ## Projetos em que ajudei ou fiz
-- [Projeto ProjetoIntegradorWEB ou Equilibrium](https://github.com/BrianoFelps/ProjetoIntegradorWEB): Prototipo de um site pique Notion ou Agenda da Google(ideia do Brian) para organização pessoal com login e cadastro prontos por meio de API e banco de dados.
-  Foram utilizadas as tecnologias do Framework React vite com Typescript, uso de bootstrap pros componentes e pra API o JavaScript com NodeJS, fazendo a ligação com o Banco de Dados MySql.
-  [API do ProjetoIntegradorWEB](https://github.com/BrianoFelps/API-ProjetoIntegrador)
 
-- [Projeto Backend da imersão Alura](https://github.com/arthurpelitoo/imersaoBackEndALURA-INSTALIKE): Desenvolvi uma API utilizando JavaScript, MongoDB e Express. Implementei as operações CRUD (Create, Read, Update, Delete) e integrei a API da Google Gemini para gerar descrições detalhadas de imagens. Além disso, fiz a deploy dela no        Google Cloud, aprendendo a configurar um ambiente de produção. Essa experiência me permitiu aprimorar minhas habilidades em design de APIs, manipulação de dados e integração de serviços externos.
+- [Joncrow 3D Assets](https://github.com/arthurpelitoo/Joncrow_3D_Assets): Desenvolvi um site em PHP para um cliente, que funciona como um mini e-commerce pessoal dele, com os varios modelos 3d, ferramentas de engine e etc. Guardando links da itch.io dentro de um JSON para que as compras e downloads sejam feitos, o site é completamente funcional. Criado como Projeto da faculdade, site que usa php, embed 3d e JSON para apresentar modelos 3d e itens.
+
+- [Projeto Backend da imersão Alura](https://github.com/arthurpelitoo/imersaoBackEndALURA-INSTALIKE): Desenvolvi uma API utilizando JavaScript, MongoDB e Express. Implementei as operações CRUD (Create, Read, Update, Delete) e integrei a API da Google Gemini para gerar descrições detalhadas de imagens. Além disso, fiz a deploy dela no        Google Cloud, aprendendo a configurar um ambiente de produção. Essa experiência me permitiu aprimorar minhas habilidades em design de APIs, manipulação de dados e integração de serviços externos. MADE IN 2024 
+
+- [Projeto ProjetoIntegradorWEB ou Equilibrium](https://github.com/BrianoFelps/ProjetoIntegradorWEB): Prototipo de um site pique Notion ou Agenda da Google(ideia do Brian) para organização pessoal com login e cadastro prontos por meio de API e banco de dados.
+Foram utilizadas as tecnologias do Framework React vite com Typescript, uso de bootstrap pros componentes e pra API o JavaScript com NodeJS, fazendo a ligação com o Banco de Dados MySql.
+[API do ProjetoIntegradorWEB](https://github.com/BrianoFelps/API-ProjetoIntegrador) MADE IN 2024
   
 ###
 
